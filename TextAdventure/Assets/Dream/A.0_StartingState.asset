@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: accb14d2c3dfb1b4fb41401d116dac94, type: 3}
+  m_Name: A.0_StartingState
+  m_EditorClassIdentifier: 
+  storyText: 'It is pitch black. The cold surrounds you. You hear a faint sound becoming
+    louder and louder. What started off as light gentle chimes started to slowly become
+    rolling thunders. Your heart is racing...
+
+
+    The wind starts to roar. Lightning bolts starts striking the ground. It was as
+    if you are a giant lightning rod. You start sweating which only makes you more
+    conductive.
+
+
+    1. Start running!
+
+    2. Freeze in fear and accept your fate. How can you outrun mother nature?'
+  nextStates:
+  - {fileID: 11400000, guid: 7f19c4e57b76c8f448a3f1f29ea2cc90, type: 2}
+  - {fileID: 11400000, guid: 10f833926c92b1f45ad92bc2cee72c6b, type: 2}

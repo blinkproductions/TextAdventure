@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: accb14d2c3dfb1b4fb41401d116dac94, type: 3}
+  m_Name: B.2_ShartEnd
+  m_EditorClassIdentifier: 
+  storyText: "You kindly excuse yourself and ask where the restroom is located.\r\n\r\nHer
+    mom tells you where its at and you slowly get up and walk towards the restroom.
+    As you stand up you try to clench your butt cheeks as tight as you can to make
+    sure nothing escapes.\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 8a000a6d1be9a8141a1c59541b4b19ec, type: 2}

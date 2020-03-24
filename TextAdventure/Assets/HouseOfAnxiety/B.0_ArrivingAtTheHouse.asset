@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: accb14d2c3dfb1b4fb41401d116dac94, type: 3}
+  m_Name: B.0_ArrivingAtTheHouse
+  m_EditorClassIdentifier: 
+  storyText: "Game time. You arrived at your girlfriend's place. Everything seems
+    to be going great! You laughed at her dad's jokes and so did he to yours. Her
+    mom also likes the small present you gave her.\r\n\r\nHer mom cooked dinner for
+    you all.\r\n\r\nEverything tasted amazing. You see where your girlfriend gets
+    her culinary skills!\r\n\r\nEveryone is just having a great time talking and getting
+    to know you.\r\n\r\nYour pupils all of a sudden dilate!\r\n\r\nYour stomach starts
+    to rumble! This is not good you definitely need to let this out (if y'know what
+    I mean).\n\n1. Lift one of your legs slowly and try to slowly and silently let
+    small bursts out\n2.YOU ANIMAL! Go to the damn restroom!"
+  nextStates:
+  - {fileID: 11400000, guid: 0a9d6d2adc201924cb317fb3c0577a0a, type: 2}
+  - {fileID: 11400000, guid: 46ff75ac2110fb349ab834a2fd42a949, type: 2}

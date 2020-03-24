@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: accb14d2c3dfb1b4fb41401d116dac94, type: 3}
+  m_Name: A.1_StoodStill
+  m_EditorClassIdentifier: 
+  storyText: "You tremble in fear. It was as if you are wearing straight jacket while
+    your feet are cemented to the ground. This is it, you don't even remember how
+    you got here. You look up to dark and ominous sky above your with your arms wide
+    open. \r\n\r\nThe clouds above you start to become blindingly bright as a swift
+    lightning strikes you down!\r\n\r\nYour body starts to fall backwards towards
+    the ground...\n\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: e955da58640d22249a49fd7c3032a95b, type: 2}
